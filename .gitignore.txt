@@ -1,0 +1,11 @@
+# Pastas de dados (Banco de dados e sessões do WhatsApp)
+pgdata/
+waha_sessions/
+waha_sessions_2/
+n8n_data/
+waha_media/
+
+# Arquivos de sistema e envs sensíveis
+.env
+*.log
+node_modules/
