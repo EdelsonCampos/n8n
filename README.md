@@ -2,6 +2,11 @@
 
 Este repositório contém a infraestrutura completa para um ambiente de automação profissional utilizando Docker. O diferencial deste projeto é a capacidade de gerenciar múltiplos números de WhatsApp simultaneamente, contornando as limitações da versão gratuita do WAHA.
 
+
+<img width="1653" height="800" alt="image" src="https://github.com/user-attachments/assets/bb1af7b4-8d53-4544-84b2-55daa201b838" />
+
+
+
 ## 🚀 Tecnologias Utilizadas
 
 * **n8n**: Plataforma de automação de fluxo de trabalho baseada em nós.
